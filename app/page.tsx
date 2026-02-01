@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/shareCompo/Sidebar";
 
 export default function Home() {
   return (
-    <div className="bg-gray-50 min-h-screen">
+    <div className="bg-gray-50 ">
       <div className=" flex items-start">
         <Sidebar />
         <main className="w-full flex-1 p-4 md:p-6">
