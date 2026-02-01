@@ -60,7 +60,7 @@ function Navbar() {
                   All <ChevronDown size={14} className="ml-1 opacity-50" />
                 </Button>
               </DropdownMenuTrigger>
-              <DropdownMenuContent>
+              <DropdownMenuContent align="start">
                 <DropdownMenuGroup>
                   <DropdownMenuLabel>Medicine</DropdownMenuLabel>
                   <DropdownMenuItem>Health Care</DropdownMenuItem>
